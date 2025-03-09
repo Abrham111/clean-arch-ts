@@ -33,5 +33,7 @@ clean-arch-ts/
     ├── presentation/
     │   └── controllers/
     │       └── UserController.ts
+    ├── tests/
+    │       └── User.test.ts
     └── main.ts
 ```
