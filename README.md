@@ -14,3 +14,22 @@ This project is a backend system built with TypeScript, following Clean Architec
 - TypeScript
 - Node.js
 - npm
+
+## Structure overview
+clean-arch-ts/
+└── src/
+    ├── application/
+    │   └── use-cases/
+    │       └── CreateUser.ts
+    ├── domain/
+    │   ├── entities/
+    │   │   └── User.ts
+    │   └── repositories/
+    │       └── UserRepository.ts
+    ├── infrastructure/
+    │   └── repositories/
+    │       └── InMemoryUserRepository.ts
+    ├── presentation/
+    │   └── controllers/
+    │       └── UserController.ts
+    └── main.ts
