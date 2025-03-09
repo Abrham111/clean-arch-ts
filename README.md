@@ -16,6 +16,7 @@ This project is a backend system built with TypeScript, following Clean Architec
 - npm
 
 ## Structure overview
+```
 clean-arch-ts/
 └── src/
     ├── application/
@@ -33,3 +34,4 @@ clean-arch-ts/
     │   └── controllers/
     │       └── UserController.ts
     └── main.ts
+```
