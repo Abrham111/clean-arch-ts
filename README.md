@@ -1,4 +1,4 @@
-# Clean Architecture TypeScript Project
+# Clean Architecture TypeScript
 
 This project is a backend system built with TypeScript, following Clean Architecture principles. It includes a `User` entity and demonstrates how to structure an application for maintainability and scalability.
 
